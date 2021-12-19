@@ -3,216 +3,131 @@
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
       <mj-column>
         <mj-image align="center" padding="0 0" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/Dkak_newsletter_header_lower.jpeg" target="_blank"></mj-image>
-         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
           <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif">Hej {{ .Subscriber.FirstName }} 👋🏽</p>
-           
-          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-           Vi är din kontakt på Datateknologsektionen!</p>
-
-           <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-           Vi är Datas Kalas- & Alumnkommitté 🎓
-           Vi bygger ett nätverk av alumner för att skapa djupare gemenskap mellan nuvarande teknologer, andra alumner och vänner; oavsett var du är idag!</p>
+          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Vi är din kontakt på Datateknologsektionen!</p>
+          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Vi är Datas Kalas- & Alumnkommitté 🎓 Vi bygger ett nätverk av alumner för att skapa djupare gemenskap mellan nuvarande teknologer, andra alumner och vänner; oavsett var du är idag!</p>
         </mj-text>
-        
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-button href="LINK HERE TO ENGLISH VERSION" align="center" background-color="#354552" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">
-        READ THIS EMAIL IN ENGLISH 
-        </mj-button>
+        <mj-button href="LINK HERE TO ENGLISH VERSION" align="center" background-color="#354552" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle"> READ THIS EMAIL IN ENGLISH </mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/v%C3%A4lkommen-highres.jpg" 
-        target="_blank" width="600px"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
-      <mj-column>
-         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
-          <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif">
-            Missa inget, välj utskicks-nivå själv 
-          </p>
-          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-            Gå med i vårt nyhetsbrev 📨
-          </p>
-         </mj-text>
-         <mj-button href="https://u.dtek.se/newsletter@TrackLink" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">
-        SIGN ME UP
-        </mj-button>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif">
-          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-           Du kan välja själv hur ofta du vill bli kontaktad. Vi har flertal evenemang
-          i olika storlekar och frekvenser och är säker på att något passar just dig! 
-          </p>
-          <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 600; font-family:Helvetica,Arial,sans-serif">
-          För den som är sugen på att hjälpa oss i DKAK har vi även ett
-           <i>Ambitious</i> alternativ där du får större inflytande i 
-           vilken riktning DKAK tar i framtiden.
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
-      <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" 
-        target="_blank" width="600px"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding="20px 0" text-align="center">
-      <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
-          <p style="font-weight: 600; line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Helvetica,Arial,sans-serif">
-          Vilka är vi i DKAK?</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center">
-      <mj-column>
-        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/edwin_port_highres.png" 
-        target="_blank" width="1200px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" 
-        line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
-            <b>Edwin Holst</b></p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552">
-            Mitt namn är Edwin Holst men på Data kallar alla mig för Pick. 
-            När jag inte ställer till med orimligheter här på sektionen så är sång, 
-            gitarr och datorspel mina föredragna metoder för att glömma bort tenta-ångesten.
-            🎸
-            </p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Helvetica,Arial,sans-serif">
-            Örebro, D18
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
-      <mj-column>
-        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/alex_port_highres.png.png" 
-        target="_blank" width="1200px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" 
-        padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="35px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
-            <b>Alexander Viala Bellander</b>
-          </p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552">
-            Hej! Det är jag som är Alex på sektionen men jag kallas även för Alkis.
-            Jag gillar elsparkcyklar och förespråkar för städer utan personbilar. Mig känner du igen lätt då jag konstant
-            har Voi merch på mig. Machine Learning är coolt. 🌱
-          </p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Georgia,Helvetica,Arial,sans-serif">
-            Lund, D18
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
-      <mj-column>
-        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/max_port_highres.png.png" 
-        target="_blank" width="1200px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" 
-        padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="65px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
-            <b>Max Karlsson</b>
-          </p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552">
-            Hej, jag är imax och jag är kingen på cs. möt mig då, nej just. 
-            🎮
-          </p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Helvetica,Arial,sans-serif">
-            Kungsbacka, D18
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
-      <mj-column>
-        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/erik_port_highres.png.png" 
-        target="_blank" width="1200px"></mj-image>
-      </mj-column>
-      <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" 
-          padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
-            <b>Erik Carlsson</b>
-          </p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552">
-            Hej! Jag heter Erik och har smeknamnet Åscha. Jag går fjärde året på data och har nyligen börjat min master.
-            Jag från en fin liten by vid namnet Vårgårda, en kvart från Alingsås, drygt en timma från Göteborg.
-            Byn hade ca tio tusen invånare och där bodde jag hela mitt liv fram tills att jag började på Chalmers. 
-            🏓
-          </p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Georgia,Helvetica,Arial,sans-serif">
-            Vårgårda, D18
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
-      <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" 
-        target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/v%C3%A4lkommen-highres.jpg" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
       <mj-column>
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
-          <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif">
-            {call-to-action punshline}
-          </p>
-          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-            Vi hoppas att vi övertalat dig att gå med i nyhetsbrevet. 
-            <br> 
-            Vi hörs ✨
-          </p>
+          <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Missa inget, välj utskicks-nivå själv </p>
+          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Gå med i vårt nyhetsbrev 📨 </p>
         </mj-text>
-        <mj-button href="https://u.dtek.se/newsletter@TrackLink" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle">
-          Gå med i vårt nyhetsbrev
-        </mj-button>
+        <mj-button href="https://u.dtek.se/newsletter@TrackLink" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle"> SIGN ME UP </mj-button>
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif">
-          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-           Du kan välja själv hur ofta du vill bli kontaktad. Vi har flertal evenemang
-          i olika storlekar och frekvenser och är säker på att något passar just dig! 
-          </p>
-          <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 600; font-family:Helvetica,Arial,sans-serif">
-          För den som är sugen på att hjälpa oss i DKAK har vi även ett
-           <i>Ambitious</i> alternativ där du får större inflytande i 
-           vilken riktning DKAK tar i framtiden.
-          </p>
+          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Du kan välja själv hur ofta du vill bli kontaktad. Vi har flertal evenemang i olika storlekar och frekvenser och är säker på att något passar just dig! </p>
+          <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> För den som är sugen på att hjälpa oss i DKAK har vi även ett <i>Ambitious</i> alternativ där du får större inflytande i vilken riktning DKAK tar i framtiden. </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" 
-        target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" target="_blank" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="font-weight: 600; line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Helvetica,Arial,sans-serif"> Vilka är vi i DKAK?</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/edwin_port_highres.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
+            <b>Edwin Holst</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Mitt namn är Edwin Holst men på Data kallar alla mig för Pick. När jag inte ställer till med orimligheter här på sektionen så är sång, gitarr och datorspel mina föredragna metoder för att glömma bort tenta-ångesten. 🎸 </p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Helvetica,Arial,sans-serif"> Örebro, D18 </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/alex_port_highres.png.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="35px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
+            <b>Alexander Viala Bellander</b>
+          </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Hej! Det är jag som är Alex på sektionen men jag kallas även för Alkis. Jag gillar elsparkcyklar och förespråkar för städer utan personbilar. Mig känner du igen lätt då jag konstant har Voi merch på mig. Machine Learning är coolt. 🌱 </p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Georgia,Helvetica,Arial,sans-serif"> Lund, D18 </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/max_port_highres.png.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="65px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
+            <b>Max Karlsson</b>
+          </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Hej, jag är imax och jag är kingen på cs. möt mig då, nej just. 🎮 </p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Helvetica,Arial,sans-serif"> Kungsbacka, D18 </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/erik_port_highres.png.png" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
+            <b>Erik Carlsson</b>
+          </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Hej! Jag heter Erik och har smeknamnet Åscha. Jag går fjärde året på data och har nyligen börjat min master. Jag från en fin liten by vid namnet Vårgårda, en kvart från Alingsås, drygt en timma från Göteborg. Byn hade ca tio tusen invånare och där bodde jag hela mitt liv fram tills att jag började på Chalmers. 🏓 </p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Georgia,Helvetica,Arial,sans-serif"> Vårgårda, D18 </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" target="_blank" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
+          <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> {call-to-action punshline} </p>
+          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Vi hoppas att vi övertalat dig att gå med i nyhetsbrevet. <br> Vi hörs ✨ </p>
+        </mj-text>
+        <mj-button href="https://u.dtek.se/newsletter@TrackLink" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle"> Gå med i vårt nyhetsbrev </mj-button>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif">
+          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Du kan välja själv hur ofta du vill bli kontaktad. Vi har flertal evenemang i olika storlekar och frekvenser och är säker på att något passar just dig! </p>
+          <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> För den som är sugen på att hjälpa oss i DKAK har vi även ett <i>Ambitious</i> alternativ där du får större inflytande i vilken riktning DKAK tar i framtiden. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding="10px 25px" 
-        src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/branding/vector/LOGO%20-%20MINIMAL-1.svg" target="_blank" width="202px"></mj-image>
+        <mj-image align="center" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/branding/vector/LOGO%20-%20MINIMAL-1.svg" target="_blank" width="202px"></mj-image>
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif">
-          <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-          2022 &copy; DKAK, Datateknologsektionen Chalmers Studentkår, Rännvägen 8, 412 58, Göteborg.
-          </p>
+          <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> 2022 &copy; DKAK, Datateknologsektionen Chalmers Studentkår, Rännvägen 8, 412 58, Göteborg. </p>
         </mj-text>
       </mj-column>
     </mj-section>
